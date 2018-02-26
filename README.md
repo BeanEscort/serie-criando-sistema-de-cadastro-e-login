@@ -12,7 +12,7 @@
 O HXPHP é um mini-framework PHP.
 
 #### PHP 5.x:
-[https://github.com/hxphp/hxphp-2](https://github.com/hxphp/hxphp-2).
+[https://github.com/brunosantoshx/serie-criando-sistema-de-cadastro-e-login/releases/tag/1.0.0](https://github.com/brunosantoshx/serie-criando-sistema-de-cadastro-e-login/releases/tag/1.0.0).
 
 
 ### Qual é a diferença do HXPHP e os demais frameworks PHP?
